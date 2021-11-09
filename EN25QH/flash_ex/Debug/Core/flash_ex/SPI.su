@@ -1,0 +1,3 @@
+SPI.c:19:19:SPI_Transmit	16	static
+SPI.c:30:19:SPI_Receive	16	static
+SPI.c:42:19:SPI_TransmitReceive	32	static

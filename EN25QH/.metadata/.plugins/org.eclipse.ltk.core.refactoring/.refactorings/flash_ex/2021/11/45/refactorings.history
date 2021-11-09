@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;flash_ex/Core/flash_ex/S25FL216K.c&apos; to &apos;EN25QH.c&apos;" description="Rename resource &apos;S25FL216K.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/flash_ex/S25FL216K.c" name="EN25QH.c" stamp="1635996998803" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;flash_ex/Core/flash_ex/S25FL216K.h&apos; to &apos;EN25QH.h&apos;" description="Rename resource &apos;S25FL216K.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/flash_ex/S25FL216K.h" name="EN25QH.h" stamp="1635997004786" updateReferences="true"/>
+</session>

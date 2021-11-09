@@ -1,0 +1,13 @@
+/*
+ * time.h
+ *
+ *  Created on: Nov 5, 2021
+ *      Author: 0
+ */
+
+#ifndef INC_TIME_H_
+#define INC_TIME_H_
+
+bool Check_Time_Out(uint32_t Millstone_Time, uint32_t Time_Period_ms)l
+
+#endif /* INC_TIME_H_ */

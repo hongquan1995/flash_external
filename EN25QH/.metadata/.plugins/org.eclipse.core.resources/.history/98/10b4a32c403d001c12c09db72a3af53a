@@ -1,0 +1,19 @@
+/*
+ * SPI.c
+ *
+ *  Created on: Nov 4, 2021
+ *      Author: 0
+ */
+
+
+/**
+ * @brief    SPI Send data of specified length
+ * @param    buf  ——  Send data buffer first address
+ * @param    size ——  The number of bytes to send data
+ * @retval    Successfully returns HAL_OK
+ */
+static HAL_StatusTypeDef SPI_Transmit(uint8_t* send_buf, uint16_t size)
+{
+
+    return HAL_SPI_Transmit(&hspi1, send_buf, size, 100);
+}

@@ -1,0 +1,12 @@
+EN25QH.c:23:6:Flash_EN25QH_ChipSelect	24	static
+EN25QH.c:44:9:Flash_EN25QH_Send_Byte	24	static
+EN25QH.c:58:10:Flash_EN25QH_Connect	24	static
+EN25QH.c:86:6:Flash_EN25QH_Enable	8	static
+EN25QH.c:104:6:Flash_EN25QH_WaitForWriteEnd	16	static
+EN25QH.c:133:6:Flash_EN25QH_EraseSector	16	static
+EN25QH.c:161:6:Flash_EN25QH_EraseBulk	8	static
+EN25QH.c:189:6:Flash_EN25QH_WritePage	24	static
+EN25QH.c:230:6:Flash_EN25QH_WriteBuffer	32	static
+EN25QH.c:308:6:Flash_EN25QH_ReadBuffer	24	static
+EN25QH.c:344:6:Flash_EN25QH_StartReadSequence	16	static
+EN25QH.c:368:9:Flash_EN25QH_ReadByte	8	static
